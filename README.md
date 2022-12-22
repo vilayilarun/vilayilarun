@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">DevOps Engineer.</h4>
+<h4 align="center">DevOps Engineer</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vilayilarun&label=Profile%20views&color=0e75b6&style=plastic" alt="vilayilarun" /> </p>
 
