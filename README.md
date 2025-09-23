@@ -1,4 +1,6 @@
 # 💫 About Me
+**Cloud-Native DevOps | Kubernetes | DevSecOps | Automation**  
+
 🚀 DevOps Engineer with 12+ years of experience in **Linux/Unix systems**, multi-cloud platforms (**AWS, Azure, GCP**), and automation-driven solutions.  
 ⚡ Specialized in building scalable, secure, and resilient infrastructure using **Kubernetes, CI/CD, GitOps, and Infrastructure as Code**.  
 🤝 Passionate about collaborating on **open-source & automation projects**, and sharing knowledge with the community.  
@@ -35,13 +37,15 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
-### ⚙️ DevOps & Automation Tools
+### ⚙️ DevOps, CI/CD & Security Tools
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Sonatype Nexus](https://img.shields.io/badge/Nexus-4B4B77?style=for-the-badge&logo=sonatype&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 
 ### 📊 Databases & Monitoring
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
