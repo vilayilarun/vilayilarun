@@ -1,5 +1,5 @@
 # 💫 About Me
-🚀 DevOps Engineer with 10+ years of experience in **Linux/Unix systems**, multi-cloud platforms (**AWS, Azure, GCP**), and automation-driven solutions.  
+🚀 DevOps Engineer with 12+ years of experience in **Linux/Unix systems**, multi-cloud platforms (**AWS, Azure, GCP**), and automation-driven solutions.  
 ⚡ Specialized in building scalable, secure, and resilient infrastructure using **Kubernetes, CI/CD, GitOps, and Infrastructure as Code**.  
 🤝 Passionate about collaborating on **open-source & automation projects**, and sharing knowledge with the community.  
 💬 Ask me about **Linux, Cloud-Native, Kubernetes, Automation, Monitoring, and Security**.  
