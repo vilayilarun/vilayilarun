@@ -18,6 +18,9 @@
 # 💻 Tech Stack
 
 ### 🖥️ Core Expertise
+### 🖥️ Core Expertise
+
+![DevOps](https://img.shields.io/badge/DevOps-%23000000.svg?style=for-the-badge&logo=devops&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Automation](https://img.shields.io/badge/Automation-%230A0FFF.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
