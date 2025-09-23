@@ -1,7 +1,7 @@
 # 💫 About Me
 🚀 DevOps Engineer with 10+ years of experience in **Linux/Unix systems**, multi-cloud platforms (**AWS, Azure, GCP**), and automation-driven solutions.  
-⚡ Passionate about designing scalable, secure, and resilient infrastructure with **Kubernetes, CI/CD, and Infrastructure as Code**.  
-🤝 Open to collaborating on **open-source & automation projects** and sharing knowledge with the community.  
+⚡ Specialized in building scalable, secure, and resilient infrastructure using **Kubernetes, CI/CD, GitOps, and Infrastructure as Code**.  
+🤝 Passionate about collaborating on **open-source & automation projects**, and sharing knowledge with the community.  
 💬 Ask me about **Linux, Cloud-Native, Kubernetes, Automation, Monitoring, and Security**.  
 
 ---
@@ -18,7 +18,6 @@
 # 💻 Tech Stack
 
 ### 🖥️ Core Expertise
-
 ![DevOps](https://img.shields.io/badge/DevOps-%23000000.svg?style=for-the-badge&logo=devops&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Automation](https://img.shields.io/badge/Automation-%230A0FFF.svg?style=for-the-badge&logo=selenium&logoColor=white)
@@ -27,18 +26,22 @@
 ![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### ☁️ Cloud & Containerization
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Helm](https://img.shields.io/badge/helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Helm](https://img.shields.io/badge/helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
 ### ⚙️ DevOps & Automation Tools
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Sonatype Nexus](https://img.shields.io/badge/Nexus-4B4B77?style=for-the-badge&logo=sonatype&logoColor=white)
 
 ### 📊 Databases & Monitoring
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -46,6 +49,10 @@
 ![ElasticSearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 📌 Collaboration & Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 ---
 
