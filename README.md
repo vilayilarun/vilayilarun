@@ -88,15 +88,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilayilarun&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=vilayilarun&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vilayilarun&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vilayilarun&theme=merko&hide_border=false&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vilayilarun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vilayilarun&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
