@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+Native+DevOps+Engineer;Kubernetes+%7C+CI%2FCD+%7C+GitOps+Expert;AWS+%7C+Azure+%7C+GCP+Multi-Cloud+Engineer;Automation+%7C+DevSecOps+%7C+SRE+Practices" />
 </p>
 
-## 🐍 Contribution Graph
 
-![snake animation](https://raw.githubusercontent.com/vilayilarun/vilayilarun/output/github-contribution-grid-snake.svg)
 
 # 💫 About Me
 **Cloud-Native DevOps | Kubernetes | DevSecOps | Automation**  
@@ -89,3 +87,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=vilayilarun&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🐍 Contribution Graph
+
+![snake animation](https://raw.githubusercontent.com/vilayilarun/vilayilarun/output/github-contribution-grid-snake.svg)
