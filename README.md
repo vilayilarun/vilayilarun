@@ -1,4 +1,6 @@
-Enhnace and update 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=DevOps%20Engineer%20%7C%20Cloud%20Native%20%7C%20Automation&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 # 💫 About Me
 **Cloud-Native DevOps | Kubernetes | DevSecOps | Automation**  
