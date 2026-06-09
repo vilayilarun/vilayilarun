@@ -7,7 +7,10 @@
 💬 Ask me about **Linux, Cloud-Native, Kubernetes, Automation, Monitoring, and Security**.  
 
 ---
-![](https://komarev.com)
+
+## 📈 Profile Views
+![Views](https://komarev.com/ghpvc/?username=vilayilarun&label=Profile%20Views&color=blue)
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vilayilarun/) 
