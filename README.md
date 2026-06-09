@@ -74,6 +74,20 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vilayilarun&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vilayilarun&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilayilarun&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vilayilarun&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vilayilarun&theme=merko&hide_border=false)<br/>
