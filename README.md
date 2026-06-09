@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=DevOps%20Engineer%20%7C%20Cloud%20Native%20%7C%20Automation&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+Native+DevOps+Engineer;Kubernetes+%7C+CI%2FCD+%7C+GitOps+Expert;AWS+%7C+Azure+%7C+GCP+Multi-Cloud+Engineer;Automation+%7C+DevSecOps+%7C+SRE+Practices" />
+</p>
+
 # 💫 About Me
 **Cloud-Native DevOps | Kubernetes | DevSecOps | Automation**  
 
